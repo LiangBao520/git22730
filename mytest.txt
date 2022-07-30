@@ -1,1 +1,3 @@
-public viod main
+public static viod main(Stringp[] args){
+  //这是新增的代码
+}
